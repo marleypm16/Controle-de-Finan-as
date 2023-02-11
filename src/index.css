@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+.descricaoValorOption{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4f4;
+  gap: 100px;
+  margin-top: 1rem;
+}
+
+.option{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
